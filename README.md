@@ -1,2 +1,1 @@
-# projeto_18
-Corte as frutas
+# project-template-C19
